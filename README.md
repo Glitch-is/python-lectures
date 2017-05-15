@@ -1,15 +1,15 @@
 # python-lectures
 
-## Overview
-### Day 1
-#### Before Lunch
+# Overview
+## Day 1
+### Before Lunch
 * Intro
 * History of Python
 * Implementations of Python
 * Python Basics
 * Strings
 * Slicing
-##### Exercise 1
+#### Exercise 1
 Can be found under `day_01/exercise_01`. This exercise focuses on Strings
 
 ---
@@ -18,10 +18,10 @@ Can be found under `day_01/exercise_01`. This exercise focuses on Strings
 * Control Structures
 * Sorting
 
-##### Exercise 2
+#### Exercise 2
 Can be found under `day_01/exercise_02`. This exercise focuses on Lists and control structures
 
-#### After Lunch
+### After Lunch
 * Tuples
 * Dictionaries
 * Functions
@@ -30,7 +30,7 @@ Can be found under `day_01/exercise_02`. This exercise focuses on Lists and cont
 * generators (yield)
 * itertools
 
-##### Exercise 3
+#### Exercise 3
 Can be found under `day_01/exercise_03`. This exercise focuses on dictionaries, tuples and sorting
 
 ---
@@ -38,7 +38,7 @@ Can be found under `day_01/exercise_03`. This exercise focuses on dictionaries, 
 * Datetime
 * Collections
 
-##### Exercise 4
+#### Exercise 4
 Can be found under `day_01/exercise_04`. This exercise focuses on files, string matching and JSON
 
 ### Day 2
@@ -50,7 +50,7 @@ Can be found under `day_01/exercise_04`. This exercise focuses on files, string 
 * Exceptions
 * Classes
 
-#### After Lunch
+### After Lunch
 
 * Flask
 * GUI (tkinter)
@@ -59,6 +59,6 @@ Can be found under `day_01/exercise_04`. This exercise focuses on files, string 
 * Matplotlib
 * SciPy
 
-## Credits
-[RU's "Forritunarmálið Python" taught by Hjalti Magnússon](https://github.com/hjalti/python-lectures)
-[Google's Python Class](https://developers.google.com/edu/python/)
+# Credits
+* [RU's "Forritunarmálið Python" taught by Hjalti Magnússon](https://github.com/hjalti/python-lectures)
+* [Google's Python Class](https://developers.google.com/edu/python/)
