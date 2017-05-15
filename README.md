@@ -35,33 +35,29 @@ Can be found under `day_01/exercise_03`. This exercise focuses on dictionaries, 
 
 ---
 * I/O
-* Files
-* os
 * Datetime
 * Collections
-* re
-* JSON/CSV/Pickle
 
 ##### Exercise 4
 Can be found under `day_01/exercise_04`. This exercise focuses on files, string matching and JSON
 
 ### Day 2
+* String Formating
+* Files
+* os
+* re
+* JSON/CSV/Pickle
+* Exceptions
 * Classes
-* Flask
-* GUI (tkinter)
-##### Exercise 5
-
----
-
-##### Exercise 6
 
 #### After Lunch
 
-##### Exercise 7
-
----
-
-##### Exercise 8
+* Flask
+* GUI (tkinter)
+* Numpy
+* Pandas
+* Matplotlib
+* SciPy
 
 ## Credits
 [RU's "Forritunarmálið Python" taught by Hjalti Magnússon](https://github.com/hjalti/python-lectures)
