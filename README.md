@@ -65,4 +65,5 @@ Can be found under `day_01/exercise_04`. This exercise focuses on files, string 
 
 # Credits
 * [RU's "Forritunarmálið Python" taught by Hjalti Magnússon](https://github.com/hjalti/python-lectures)
+* [Official Python Tutorial](https://docs.python.org/3.6/tutorial/index.html)
 * [Google's Python Class](https://developers.google.com/edu/python/)
