@@ -1,0 +1,15 @@
+{% extends 'layout.html' %}
+{% block konni %}
+    <h1>Login</h1>
+    {% if name %}
+        <h3>Hello {{name}}!</h3>
+    {% else %}
+        <h3>No name given</h3>
+    {% endif %}
+
+    <form method="post">
+        <input type="text" name="username"=/>
+        <input type="password" name="passward"=/>
+        <input type="submit" name="">
+    </form>
+{% endblock %}
