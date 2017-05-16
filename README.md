@@ -38,8 +38,6 @@ Can be found under `day_01/exercise_03`. This exercise focuses on dictionaries, 
 * Datetime
 * Collections
 
-#### Exercise 4
-Can be found under `day_01/exercise_04`. This exercise focuses on files, string matching and JSON
 
 ### Day 2
 * String Formating
@@ -47,6 +45,12 @@ Can be found under `day_01/exercise_04`. This exercise focuses on files, string 
 * os
 * re
 * JSON/CSV/Pickle
+
+#### Exercise 4
+Can be found under `day_01/exercise_04`. This exercise focuses on files, string matching and JSON
+
+---
+
 * Exceptions
 * Classes
 
